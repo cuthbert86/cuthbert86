@@ -7,4 +7,8 @@
 
 - ⚡ Fun fact: Just for fun i've got a comedy youtube channel, there is a link to it in my profile.
 
+- I've started a little work related blog recrntly so check that out if you have the time: https://legitbainesblog.blogspot.com/
+
+- 
+
 
