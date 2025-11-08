@@ -1,7 +1,7 @@
 - 👋 Welcome to @cuthbert86 github code repositpories.  
-- 👀 I’ve spent the last few years studying computing at Hallam University
-- 🌱 I’m currently learning computing with a specialism in "smart computing" aka "internet of things" aka micro-computers.
--   I'm still trying to get into the habit of updating my latest work to GitHub so there are a few half finished projects on here and some work from my early days when I wasn't very good.
+- 👀 I’ve spent the last few years studying computing at Hallam University and I've recently graduated with a 2.1
+- 🌱 I was on a computing course with a specialism in "smart computing" aka "internet of things" aka micro-computers.
+- I'm still trying to do a few of my own little projects to keep me ticking over and challenging myself.
 
 - 📫 How to reach me via email cuthbert.corp@gmail.com
 
