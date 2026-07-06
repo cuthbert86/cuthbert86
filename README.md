@@ -5,8 +5,8 @@
 
 - 📫 How to reach me via email cuthbert.corp@gmail.com
 
-- ⚡ Fun fact: Just for fun i've got a comedy youtube channel, there is a link to it in my profile.
-
+- ⚡ Fun fact: I am comedy gold and whenever I turn up to work I always arrive with a joke or hilarious anecdote.
+  
 - I've started a little work related blog recently so check that out if you have the time: https://legitbainesblog.blogspot.com/
 
 - This is the homepage of my github.io homepages website:  https://cuthbert86.github.io/
